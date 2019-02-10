@@ -21,15 +21,6 @@
         <tag>HEAD</tag>
     </scm>
 
-    <developers>
-        <developer>
-            <id>haystack</id>
-            <name>Haystack Team</name>
-            <email>haystack@expedia.com</email>
-            <url>https://github.com/ExpediaDotCom/haystack</url>
-        </developer>
-    </developers>
-
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
