@@ -1,8 +1,8 @@
 # Opencensus Trace Exporter for Haystack
 
-The OpenCensus Haystack Trace Exporter is a trace exporter that exports data to haystack.
+The OpenCensus Haystack Trace Exporter is a trace exporter that exports data to Haystack.
 
-To know about haystack checkout [here](https://expediadotcom.github.io/haystack/)
+To know about Haystack checkout [here](https://expediadotcom.github.io/haystack/)
 
 ## Quickstart
 
