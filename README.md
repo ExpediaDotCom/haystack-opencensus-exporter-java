@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/ExpediaDotCom/haystack-opencensus-exporter.svg?branch=master)](https://travis-ci.org/ExpediaDotCom/haystack-opencensus-exporter)
+[![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/ExpediaDotCom/haystack/blob/master/LICENSE)
+
 # Opencensus Trace Exporter for Haystack
 
 The OpenCensus Haystack Trace Exporter is a trace exporter that exports data to Haystack.
